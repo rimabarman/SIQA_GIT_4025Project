@@ -13,7 +13,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE NAME="DADA_GlobalVariable1" SERVICE="GB_1:readGlobalvariable">
+<INVOKE NAME="DADA_GlobalVariable1" SERVICE="GB_1:readGlobalvariable" DISABLED="true">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
