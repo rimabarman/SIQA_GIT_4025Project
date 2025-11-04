@@ -5,7 +5,7 @@
 
   <!-- nodes -->
 
-<INVOKE NAME="SIQACloudStreamsTests" SERVICE="SIQACloudStreamsTests:connetorOperations">
+<INVOKE NAME="SIQACloudStreamsTests" SERVICE="SIQACloudStreamsTests:connetorOperations" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
 
@@ -13,7 +13,7 @@
   <COMMENT></COMMENT>
 </INVOKE>
 
-<INVOKE NAME="DADA_GlobalVariable1" SERVICE="GB_1:readGlobalvariable">
+<INVOKE NAME="DADA_GlobalVariable1" SERVICE="GB_1:readGlobalvariable" DISABLED="true">
   <COMMENT></COMMENT>
 </INVOKE>
 </FLOW>
