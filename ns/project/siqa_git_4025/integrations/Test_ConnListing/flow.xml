@@ -12,4 +12,8 @@
 <INVOKE NAME="SIQAJDBCAdapterTests" SERVICE="SIQAJDBCAdapterTests.adapterServices:getData">
   <COMMENT></COMMENT>
 </INVOKE>
+
+<INVOKE NAME="DADA_GlobalVariable1" SERVICE="GB_1:readGlobalvariable">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>

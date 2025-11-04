@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">rimabarman</value>
-    <value name="lastModifiedDate">1762232188610</value>
+    <value name="lastModifiedDate">1762232209091</value>
     <value name="displayName">Test_ConnListing</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -82,6 +82,23 @@
           <value name="description">SIQAJDBCAdapterTests.adapterServices:getData</value>
           <value name="serviceName">SIQAJDBCAdapterTests.adapterServices:getData</value>
           <value name="displayName">getData</value>
+        </record>
+        <null name="outputMapSet"/>
+        <null name="mapSet"/>
+      </record>
+      <record name="/2" javaclass="com.wm.util.Values">
+        <null name="name"/>
+        <value name="itemType">PACKAGES</value>
+        <record name="serviceInfo" javaclass="com.wm.util.Values">
+          <value name="groupDisplayName">DADA_GlobalVariable1</value>
+          <value name="groupName">DADA_GlobalVariable1;1.0</value>
+          <null name="services"/>
+        </record>
+        <Boolean name="isProjectPackage">false</Boolean>
+        <record name="serviceName" javaclass="com.wm.util.Values">
+          <value name="description">GB_1:readGlobalvariable</value>
+          <value name="serviceName">GB_1:readGlobalvariable</value>
+          <value name="displayName">readGlobalvariable</value>
         </record>
         <null name="outputMapSet"/>
         <null name="mapSet"/>
