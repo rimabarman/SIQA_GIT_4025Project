@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/rimabarman
   gitUsername: rimabarman
   gitBranch: main
+- name: SIQACloudStreamsTests
+  gitServerName: rimaSCName
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: rimabarman
+  gitBranch: main
